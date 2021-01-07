@@ -1,0 +1,207 @@
+/*
+Theme Name: Business One Page
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+.site-branding {
+    float: right;
+}
+
+.main-navigation {
+    float: left;
+}
+
+.main-navigation ul li {
+    float: right;
+    margin-left: 0;
+    margin-right: 40px;
+}
+
+#about .col,
+#services .col {
+    float: right;
+}
+
+#services .col .icon-holder {
+    float: right;
+}
+
+#clients .columns-2 {
+    float: right;
+}
+
+.blog-section .columns-3 {
+    float: right;
+}
+
+.blog-section .columns-3 .post .img-holder .category {
+    left: auto;
+    right: 10px;
+}
+
+div.wpcf7 {
+    direction: rtl;
+}
+
+.contact-info-lists li {
+    padding-left: 0;
+    padding-right: 41px;
+}
+
+#contact .social-networks li,
+#contact .columns-6,
+.footer-t .columns-3 {
+    float: right;
+}
+
+.contact-info-lists .address,
+.contact-info-lists .phone,
+.contact-info-lists .fax,
+.contact-info-lists .email {
+    background-position: 100% 0;
+}
+
+.footer-t .widget .widget-title::after {
+    left: auto;
+    right: 0;
+}
+
+.footer-t .widget.widget_business_one_page_recent_post .post-thumbnail,
+.footer-t .widget.widget_business_one_page_popular_post .post-thumbnail {
+    float: right;
+    margin-left: 15px;
+    margin-right: 0;
+}
+
+.footer-t .widget.widget_business_one_page_social_links .social-networks li {
+    float: right;
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.scrollup {
+    left: 115px;
+    right: auto;
+}
+
+.content-area .post .entry-header .entry-meta .posted-on {
+    margin-right: 0;
+    margin-left: 30px;
+}
+
+.content-area .post .entry-header .byline,
+.content-area .post .entry-header .entry-meta .posted-on {
+    padding-left: 0;
+    padding-right: 22px;
+    background-position: 100% 4px;
+}
+
+.tags-block .fa {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+.tags-block a,
+.tags-block span {
+    display: inline-block;
+}
+
+.author-block .img-holder {
+    float: right;
+    margin-right: 0;
+    margin-left: 20px;
+}
+
+.author-block .text-holder .author-name::after {
+    left: auto;
+    right: 0;
+}
+
+#secondary .widget .search-form input[type="submit"] {
+    float: left;
+}
+
+#secondary .widget .search-form input[type="search"],
+#secondary .widget .search-form label {
+    float: right;
+}
+
+#secondary .widget.widget_business_one_page_recent_post .post-thumbnail,
+#secondary .widget.widget_business_one_page_popular_post .post-thumbnail {
+    float: right;
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+#secondary .widget .widget-title::after {
+    right: 0;
+    left: auto;
+}
+
+#secondary .widget .widget-title {
+    text-align: right;
+}
+
+#secondary .widget.widget_categories ul li a {
+    float: right;
+}
+
+#secondary .widget.widget_business_one_page_social_links .social-networks li {
+    float: right;
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.blog .content-area .post .entry-content .btn-readmore,
+.category .content-area .post .entry-content .btn-readmore,
+.archive .content-area .post .entry-content .btn-readmore {
+    float: right;
+}
+
+.footer-t .widget ul{
+	margin-left: 0;
+	margin-right: 15px;
+}
+
+#portfolio .portfolio-col .img-holder .text .title::after{
+	left: auto;
+	right: 0;
+}
+
+#portfolio .portfolio-col .img-holder .text .btn-more{
+	float: right;
+}
+
+.comment-list .comment-body img{
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+}
+
+.comment-list .comment-content{
+	float: right;
+}
+
+.comment-list .reply{
+	float: left;
+}
+
+#secondary .widget .search-form{
+    margin-right: 0;
+}
+
+.main-navigation ul ul li:hover > ul{
+   left: auto;
+   right: 100%;
+}

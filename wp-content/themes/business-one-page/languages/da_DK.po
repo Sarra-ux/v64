@@ -1,0 +1,834 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Business One Page\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-23 19:12+0545\n"
+"POT-Revision-Date: Tue Aug 16 2016 14:08:51 GMT+0545 (Nepal Standard Time)\n"
+"PO-Revision-Date: 2016-11-02 11:54+0000\n"
+"Language-Team: Danish\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"Last-Translator: CodeWing <manandharsudin@gmail.com>\n"
+"Language: da-DK\n"
+"X-Poedit-SearchPath-0: .."
+
+#: inc/template-tags.php:79
+msgid " "
+msgstr ""
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Den side kan ikke vises. "
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Det lader til at ingen søgeresultater dukkede op her. Måske forsøg en af "
+"disse links forneden, eller søg på ny? "
+
+#: archive.php:38 index.php:44
+msgid "Prev"
+msgstr "Tidligere"
+
+#: archive.php:39 index.php:45
+msgid "Next"
+msgstr "Næste"
+
+#: archive.php:40 index.php:46
+msgid "Page"
+msgstr "Side"
+
+#: comments.php:31 sections/section-blog.php:56
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Kommentar"
+msgstr[1] "%1$s Kommentarer"
+
+#: comments.php:50
+msgid "Comment navigation"
+msgstr "Kommentar navigering "
+
+#: comments.php:53
+msgid "Older Comments"
+msgstr "Tidligere Kommentater"
+
+#: comments.php:54
+msgid "Newer Comments"
+msgstr "Nyere Kommentarer"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Det er lukket for kommentarer. "
+
+#: comments.php:79
+msgid "Name"
+msgstr "Navn"
+
+#: comments.php:82
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:85
+msgid "Website"
+msgstr "Hjemmeside"
+
+#: comments.php:94
+msgid "Leave a Reply"
+msgstr "Efterlad et Svar"
+
+#: comments.php:95
+msgid "Leave a Reply to %s"
+msgstr "Efterlad et Svar til %s"
+
+#: comments.php:96
+msgid "Cancel Reply"
+msgstr "Aflys Svar"
+
+#: comments.php:97
+msgid "POST COMMENT"
+msgstr "Indlæg Kommentar"
+
+#: comments.php:100
+msgid "Comment"
+msgstr "Kommenter"
+
+#: comments.php:105
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"Du skal være logget ind <a href=\"%s\">logget ind</a> for at kunne indlægge "
+"en kommentar."
+
+#: comments.php:111
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Logget ind som <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log ud af "
+"denne konto\">Log ud?</a>"
+
+#: footer.php:54
+msgid "Scroll"
+msgstr "Scroll"
+
+#: functions.php:47
+msgid "Primary"
+msgstr "Primær"
+
+#: functions.php:137
+msgid "Right Sidebar"
+msgstr "Højre Sidemenu"
+
+#: functions.php:147
+msgid "Footer One"
+msgstr "Fodnote En "
+
+#: functions.php:157
+msgid "Footer Two"
+msgstr "Fodnote To"
+
+#: functions.php:167
+msgid "Footer Three"
+msgstr "Fodnote Tre"
+
+#: header.php:53 inc/customizer.php:130
+msgid "Home"
+msgstr "Hjem"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Søg Resultater for: %s"
+
+#. Name of the template
+msgid "Home Page"
+msgstr "Hjemmeside"
+
+#: inc/customizer.php:28
+msgid "Choose Category"
+msgstr "Vælg Kategori"
+
+#: inc/customizer.php:41
+msgid "Choose Post"
+msgstr "Vælg Indlæg"
+
+#: inc/customizer.php:49
+msgid "Choose Page"
+msgstr "Vælg Side"
+
+#: inc/customizer.php:61
+msgid "Default Settings"
+msgstr "Grundindstillinger"
+
+#: inc/customizer.php:62
+msgid "Default section provided by WordPress customizer."
+msgstr "Grundindstillinger Delen af WordPress customizer."
+
+#: inc/customizer.php:82
+msgid "Section Menu Settings"
+msgstr "Sektion Menu Indstillinger"
+
+#: inc/customizer.php:100
+msgid "Disable Home Link"
+msgstr "Disaktiver Hjem Link "
+
+#: inc/customizer.php:101
+msgid "Enable to disable Home Link"
+msgstr "Aktiver Disaktiver Hjem Link"
+
+#: inc/customizer.php:119
+msgid "Disable Section Menu"
+msgstr "Disaktiver Menu Delen"
+
+#: inc/customizer.php:120
+msgid "Enable to disable Section Menu"
+msgstr "Aktivere Disaktivering af Delen Menu "
+
+#: inc/customizer.php:137
+msgid "Home Link Label"
+msgstr "Hjem Link Label "
+
+#: inc/customizer.php:148
+msgid "Slider Settings"
+msgstr "Slider Indstillinger"
+
+#: inc/customizer.php:166
+msgid "Enable Home Page Slider"
+msgstr "Aktiver Hjemmeside Slider"
+
+#: inc/customizer.php:184
+msgid "Enable Slider Auto Transition"
+msgstr "Aktiver Auto Slider Overgang"
+
+#: inc/customizer.php:202
+msgid "Enable Slider Loop"
+msgstr "Aktiver Slider Loop"
+
+#: inc/customizer.php:220
+msgid "Enable Slider Pager"
+msgstr "Aktiver Slider Pager"
+
+#: inc/customizer.php:238
+msgid "Enable Slider Caption"
+msgstr "Aktiver Slider Overskrift"
+
+#: inc/customizer.php:256
+msgid "Choose Slider Animation"
+msgstr "Vælg Slider Animation"
+
+#: inc/customizer.php:260
+msgid "Fade"
+msgstr "Falm"
+
+#: inc/customizer.php:261
+msgid "Slide"
+msgstr "Slide"
+
+#: inc/customizer.php:278
+msgid "Slider Speed"
+msgstr "Slider Hastighed"
+
+#: inc/customizer.php:296
+msgid "Animation Speed"
+msgstr "Animations Hastighed"
+
+#: inc/customizer.php:306 inc/extras.php:124 sections/section-portfolio.php:66
+msgid "Learn More"
+msgstr "Lær Mere"
+
+#: inc/customizer.php:314
+msgid "Readmore Text"
+msgstr "Læs Mere Tekst"
+
+#: inc/customizer.php:332 inc/customizer.php:485 inc/customizer.php:608
+#: inc/customizer.php:889
+msgid "Select Post One"
+msgstr "Vælg Indlæg en"
+
+#: inc/customizer.php:351 inc/customizer.php:504 inc/customizer.php:627
+#: inc/customizer.php:908
+msgid "Select Post Two"
+msgstr "Vælg Indlæg To"
+
+#: inc/customizer.php:370 inc/customizer.php:523 inc/customizer.php:646
+#: inc/customizer.php:927
+msgid "Select Post Three"
+msgstr "Vælg Indlæg Tre"
+
+#: inc/customizer.php:389 inc/customizer.php:665 inc/customizer.php:946
+msgid "Select Post Four"
+msgstr "Vælg Indlæg Fire"
+
+#: inc/customizer.php:403
+msgid "Home Page Settings"
+msgstr "Hjemmeside Indstillinger"
+
+#: inc/customizer.php:404
+msgid "Customize Home Page Settings"
+msgstr "Personliggør Hjemmeside Indstillinger"
+
+#: inc/customizer.php:412
+msgid "About Section"
+msgstr "Omkring Delen"
+
+#: inc/customizer.php:430
+msgid "Enable About Section"
+msgstr "Aktiver Omkring Delen"
+
+#: inc/customizer.php:448
+msgid "About Section Menu Title"
+msgstr "Omkring Sektion Menu Titlen"
+
+#: inc/customizer.php:466 inc/customizer.php:589 inc/customizer.php:870
+#: inc/customizer.php:1031 inc/customizer.php:1116 inc/customizer.php:1299
+#: inc/customizer.php:1485
+msgid "Select Page"
+msgstr "Vælg Side"
+
+#: inc/customizer.php:535
+msgid "Service Section"
+msgstr "Service Delen"
+
+#: inc/customizer.php:553
+msgid "Enable Service Section"
+msgstr "Aktiver Service Delen"
+
+#: inc/customizer.php:571
+msgid "Service Section Menu Title"
+msgstr "Service Del Menu Titlen"
+
+#: inc/customizer.php:684 inc/customizer.php:965
+msgid "Select Post Five"
+msgstr "Vælg Indlæg Fem"
+
+#: inc/customizer.php:703
+msgid "Select Post Six"
+msgstr "Vælg Indlæg Seks"
+
+#: inc/customizer.php:715
+msgid "First Promotional Block Section"
+msgstr "Første Promoverings Blok Sektion"
+
+#: inc/customizer.php:733 inc/customizer.php:1348
+msgid "Enable Promotional Block Section"
+msgstr "Aktiver Promoverings Blok Delen"
+
+#: inc/customizer.php:751 inc/customizer.php:1366
+msgid "Promotional Block Section Title"
+msgstr "Promoverings Blok Sektions Titlen"
+
+#: inc/customizer.php:769 inc/customizer.php:1384
+msgid "Promotional Block Section Content"
+msgstr "Promoverings Blok Delens Indhold"
+
+#: inc/customizer.php:787 inc/customizer.php:1402
+msgid "Promotional Block Section Button"
+msgstr "Promoverings Blok Delen Knappen"
+
+#: inc/customizer.php:805 inc/customizer.php:1420
+msgid "Promotional Block Section Button Url"
+msgstr "Promoverings Blok Delen Knap Url"
+
+#: inc/customizer.php:816
+msgid "Portfolio Section"
+msgstr "Portfolio Delen"
+
+#: inc/customizer.php:834
+msgid "Enable Portfolio Section"
+msgstr "Aktiver Portfolio Delen"
+
+#: inc/customizer.php:852
+msgid "Portfolio Section Menu Title"
+msgstr "Portfolio Delen Menu Titlen"
+
+#: inc/customizer.php:977
+msgid "Team Section"
+msgstr "Team Delen"
+
+#: inc/customizer.php:995
+msgid "Enable Team Section"
+msgstr "Aktiver Team Delen"
+
+#: inc/customizer.php:1013
+msgid "Team Section Menu Title"
+msgstr "Team Delen Menu Titlen"
+
+#: inc/customizer.php:1050 inc/customizer.php:1318
+msgid "Select Category"
+msgstr "Vælg Kategori"
+
+#: inc/customizer.php:1062
+msgid "Client Section"
+msgstr "Client Delen"
+
+#: inc/customizer.php:1080
+msgid "Enable Client Section"
+msgstr "Aktiver Client Delen"
+
+#: inc/customizer.php:1098
+msgid "Client Section Menu Title"
+msgstr "Client Delen Menu Titlen"
+
+#: inc/customizer.php:1134
+msgid "Select Client Logos"
+msgstr "Vælg Client Logoer"
+
+#: inc/customizer.php:1144
+msgid "Blog Section"
+msgstr "Blog Delen"
+
+#: inc/customizer.php:1162
+msgid "Enable Blog Section"
+msgstr "Aktiver Blog Delen"
+
+#: inc/customizer.php:1180
+msgid "Blog Section Menu Title"
+msgstr "Blog Delen Menu Titlen"
+
+#: inc/customizer.php:1198
+msgid "Blog Section Title"
+msgstr "Blog Titel Delen"
+
+#: inc/customizer.php:1216
+msgid "Blog Section Content"
+msgstr "Blog Delen Indhold"
+
+#: inc/customizer.php:1226 sections/section-blog.php:10
+msgid "View All Blogs"
+msgstr "Se Alle Blogs"
+
+#: inc/customizer.php:1234
+msgid "Blog View All Text"
+msgstr "Se Blog Al Tekst"
+
+#: inc/customizer.php:1245
+msgid "Testimonial Section"
+msgstr "Vidnesbyrd Delen"
+
+#: inc/customizer.php:1263
+msgid "Enable Testimonial Section"
+msgstr "Aktiver Vidnesbyrd Delen"
+
+#: inc/customizer.php:1281
+msgid "Testimonial Section Menu Title"
+msgstr "Vidnesbyrd Delen Menu Titel"
+
+#: inc/customizer.php:1330
+msgid "Second Promotional Block Section"
+msgstr "Anden Promoverings Blok Delen"
+
+#: inc/customizer.php:1431
+msgid "Contact Section"
+msgstr "Kontakt Delen"
+
+#: inc/customizer.php:1449
+msgid "Enable Contact Section"
+msgstr "Aktiver Kontakt Delen"
+
+#: inc/customizer.php:1467
+msgid "Contact Section Menu Title"
+msgstr "Kontakt Delen Menu Titlen"
+
+#: inc/customizer.php:1504
+msgid "Contact Section Contact Form"
+msgstr "Kontakt Delen Kontakt Formen"
+
+#: inc/customizer.php:1505
+msgid ""
+"Enter the Contact Form 7 Shortcode. Ex. [contact-form-7 id=\"186\" "
+"title=\"Google contact\"]"
+msgstr ""
+"Indsæt Kontakt Formen 7 Shortcode. Ex. [kontat-form-7 id=\"186\" "
+"title=\"Google contakt\"]"
+
+#: inc/customizer.php:1523
+msgid "Contact Info Title"
+msgstr "Kontakt Info Titlen"
+
+#: inc/customizer.php:1541
+msgid "Contact Info Content"
+msgstr "Kontakt Info Indhold"
+
+#: inc/customizer.php:1559
+msgid "Contact Address"
+msgstr "Kontakt Adresse"
+
+#: inc/customizer.php:1577
+msgid "Contact Phone"
+msgstr "Kontakt nummer "
+
+#: inc/customizer.php:1595
+msgid "Contact Fax"
+msgstr "Kontakt Fax"
+
+#: inc/customizer.php:1613
+msgid "Contact Email"
+msgstr "Kontakt Email"
+
+#: inc/customizer.php:1626
+msgid "Social Settings"
+msgstr "Sociale Indstillinger"
+
+#: inc/customizer.php:1627
+msgid "Leave blank if you do not want to show the social link."
+msgstr "Efterlad blankt hvis du ikke ønsker at vise de sociale links. "
+
+#: inc/customizer.php:1645 inc/extras.php:211 inc/widget-social-links.php:54
+#: inc/widget-social-links.php:100
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:1663 inc/extras.php:212 inc/widget-social-links.php:56
+#: inc/widget-social-links.php:105
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:1681 inc/extras.php:213 inc/widget-social-links.php:58
+#: inc/widget-social-links.php:110
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer.php:1699 inc/extras.php:214 inc/widget-social-links.php:115
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer.php:1717 inc/extras.php:215 inc/widget-social-links.php:62
+#: inc/widget-social-links.php:120
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/customizer.php:1728
+msgid "Exclude Category Settings"
+msgstr "Ekskluder Kategori Indstillinger "
+
+#: inc/customizer.php:1748
+msgid "Exclude Categories"
+msgstr "Ekskluder Kategorier"
+
+#: inc/customizer.php:1749
+msgid "Check multiple categories to exclude from blog and archive page."
+msgstr "Tjek samtlige kategorier for at eksludere blogs og arkiverede sider. "
+
+#: inc/customizer.php:1759
+msgid "Custom CSS Settings"
+msgstr "Custom CSS Indstillinger"
+
+#: inc/customizer.php:1777
+msgid "Custom Css"
+msgstr "Custom Css"
+
+#: inc/customizer.php:1779
+msgid "Put your custom CSS"
+msgstr "Anbring dit custom CSS"
+
+#: inc/extras.php:90
+msgid "<b class=\"fn\">%s</b>"
+msgstr "<b klasse=\"fn\">%s</b>"
+
+#: inc/extras.php:93
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar afventer moderation. "
+
+#. translators: 1: date, 2: time
+#: inc/extras.php:102
+msgid "%1$s - %2$s"
+msgstr "%1$s - %2$s"
+
+#: inc/extras.php:267
+msgid "Copyright &copy;  %s"
+msgstr "Copyright &copy;  %s"
+
+#: inc/extras.php:268
+msgid "%s"
+msgstr "%s"
+
+#. Theme URI of the theme
+#: inc/extras.php:268
+msgid "http://raratheme.com/wordpress-themes/business-one-page/"
+msgstr "http://raratheme.com/wordpress-themes/business-one-page/"
+
+#: inc/extras.php:269
+msgid "Powered by: %s"
+msgstr "Powered by: %s"
+
+#: inc/extras.php:269
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/info.php:11
+msgid "Information Links"
+msgstr "Informations Links"
+
+#: inc/info.php:21
+msgid "Need help?"
+msgstr "Brug for Hjælp? "
+
+#: inc/info.php:22
+msgid "View demo"
+msgstr "Se demo"
+
+#: inc/info.php:22 inc/info.php:23 inc/info.php:24 inc/info.php:25
+msgid "here"
+msgstr "her"
+
+#: inc/info.php:23
+msgid "View documentation"
+msgstr "Se dokumentation"
+
+#: inc/info.php:24
+msgid "Support ticket"
+msgstr "Support billet"
+
+#: inc/info.php:25
+msgid "More Details"
+msgstr "Flere Detaljer"
+
+#: inc/info.php:29
+msgid "About Business One Page"
+msgstr "Omkring Virksomheden En Side"
+
+#: inc/info.php:42
+msgid "Pro Version"
+msgstr "Pro Version"
+
+#. $id
+#: inc/metabox.php:14
+msgid "Sidebar Layout"
+msgstr "Sidemenu Layout"
+
+#: inc/metabox.php:24
+msgid "Right sidebar (default)"
+msgstr "Højre Sidemenu (grundindstillinger) "
+
+#: inc/metabox.php:29
+msgid "No sidebar"
+msgstr "Ingen sidemenu"
+
+#: inc/metabox.php:41
+msgid "Choose Sidebar Template"
+msgstr "Vælg Sidemenu Udkast"
+
+#: inc/multiimage-custom-control.php:47
+msgid "Upload"
+msgstr "Upload"
+
+#: inc/multiimage-custom-control.php:50
+msgid "Remove all images"
+msgstr "Slet alle billeder"
+
+#: inc/template-tags.php:24
+msgctxt "post date"
+msgid "%s"
+msgstr "%s (vis dato)"
+
+#: inc/template-tags.php:29
+msgctxt "post author"
+msgid "%s"
+msgstr "%s (vis forfatter)"
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:47 inc/template-tags.php:55
+msgid ", "
+msgstr ","
+
+#: inc/template-tags.php:51
+msgid "Categories: %1$s"
+msgstr "Kategorier: %1$s"
+
+#: inc/template-tags.php:57
+msgid "Tags: %1$s"
+msgstr "Tags: %1$s"
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#: inc/template-tags.php:65 template-parts/content-page.php:42
+msgid "Edit %s"
+msgstr "Ret %s"
+
+#: inc/template-tags.php:81 inc/widget-popular-post.php:75
+#: inc/widget-recent-post.php:74
+msgid "%1$s"
+msgstr "%1$s"
+
+#. Base ID
+#: inc/widget-popular-post.php:24
+msgid "RARA: Popular Post"
+msgstr "RARA: Populære Indlæg"
+
+#: inc/widget-popular-post.php:25
+msgid "A Popular Post Widget"
+msgstr "Et Populært Indlægs Widget"
+
+#: inc/widget-popular-post.php:39 inc/widget-popular-post.php:100
+#: inc/widget-popular-post.php:142
+msgid "Popular Posts"
+msgstr "Populære Indlæg"
+
+#: inc/widget-popular-post.php:108 inc/widget-recent-post.php:107
+#: inc/widget-social-links.php:95
+msgid "Title"
+msgstr "Titel"
+
+#: inc/widget-popular-post.php:113 inc/widget-recent-post.php:112
+msgid "Number of Posts"
+msgstr "Antal af Indlæg"
+
+#: inc/widget-popular-post.php:119 inc/widget-recent-post.php:118
+msgid "Show Post Thumbnail"
+msgstr "Vis Indlægs Thumbnail"
+
+#: inc/widget-popular-post.php:124 inc/widget-recent-post.php:123
+msgid "Show Post Date"
+msgstr "Vis Indlægs Datoen"
+
+#. Base ID
+#: inc/widget-recent-post.php:24
+msgid "RARA: Recent Post"
+msgstr "RARA: Nylige Indlæg"
+
+#: inc/widget-recent-post.php:25
+msgid "A Recent Post Widget"
+msgstr "Et Nyligt Indlægs Widget"
+
+#: inc/widget-recent-post.php:39 inc/widget-recent-post.php:99
+#: inc/widget-recent-post.php:141
+msgid "Recent Posts"
+msgstr "Nylige Indlæg"
+
+#. Base ID
+#: inc/widget-social-links.php:24
+msgid "RARA: Social Links"
+msgstr "RARA: Sociale Links"
+
+#: inc/widget-social-links.php:25
+msgid "A Social Links Widget"
+msgstr "Et Socialt Links Widget"
+
+#: inc/widget-social-links.php:39 inc/widget-social-links.php:83
+#: inc/widget-social-links.php:149
+msgid "Subscribe & Follow"
+msgstr "Abonner og Følg"
+
+#: inc/widget-social-links.php:60
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/widget-social-links.php:64 inc/widget-social-links.php:125
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/widget-social-links.php:66 inc/widget-social-links.php:130
+msgid "YouTube"
+msgstr "YouTube"
+
+#: sections/section-blog.php:54
+msgid "/"
+msgstr "/"
+
+#: sections/section-contact.php:42
+msgid "Leave a message"
+msgstr "Efterlad en Besked"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Intet Fundet"
+
+#: template-parts/content-none.php:21
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Klar til at offentliggøre dit første indlæg? <a href=\"%1$s\">Start her</a>."
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Beklager, men intet matchede dine søgeord. Forsøg eventuelt igen med andre "
+"søgeord. "
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Det lader til, at vi ikke kan finde det du søger. Forsøg eventuelt at søge "
+"videre.  "
+
+#: template-parts/content-page.php:31 template-parts/content.php:65
+msgid "Pages:"
+msgstr "Sider: "
+
+#: template-parts/content.php:50
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Fortsæt med at læse %s <span klasse=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content.php:58
+msgid "Read More"
+msgstr "Læs Mere"
+
+#: template-parts/content.php:77
+msgid "About the Author"
+msgstr "Omkring Forfatteren"
+
+msgid "Business One Page"
+msgstr "Business One Side"
+
+#. Description of the theme
+msgid ""
+"Business One Page is a clean, modern and engaging one page WordPress Theme "
+"suitable for business websites, digital agency, corporate business, "
+"freelancers, portfolio, product showcase, bloggers and everyone one who "
+"appreciates beautiful design. The design is responsive and shows very well "
+"in mobile and tablet devices. The theme is SEO friendly and make it easy to "
+"find on Google and other search engines. It is loaded with theme options and "
+"provides several features to make user-friendly, interactive and visually "
+"stunning website. Such features include advance slider options, portfolio "
+"and product showcase, team member, our services showcase, 2 clear Call to "
+"Action (CTA) buttons, testimonials, social media, contact details with "
+"contact form. It also includes 3 custom widgets for recent posts, popular "
+"posts and social media. The theme is also translation ready. Designed with "
+"visitor engagement in mind, Business One Page allows anyone to create a "
+"beautiful, fast and mobile friendly website compatible with all browsers and "
+"devices. You can get free support in http://raratheme.com/support-forum/, "
+"Doucmentation: http://raratheme.com/documentation/business-one-page and "
+"check the demo at http://raratheme.com/preview/business-one-page/"
+msgstr ""
+"Business One er et rent, moderne og engareret one page Wordpress Tema, "
+"tilpasset for alle slags business hjemmesider, digitale bureauer, corporate "
+"virksomheder, freelancere, portfolios, produkt showcase, bloggere og alle "
+"der sætter pris på smukt design. Designet responderer og er tydeligt på både "
+"mobile og tablet apparater. Teamet er også SEO venligt og gør det let at "
+"finde på Google og andre søgemaskiner. Det er spækket med tema muligheder og "
+"giver forskellige udkast til at skabe brugervenlige, interagerende, og "
+"visuelt smukke hjemmesider. Sådanne udkast inkluderer advance slider "
+"muligheder, portfolio og product showcases, team medlemmer, showcases for "
+"vores services, 2 klare Call to Action (CTA) knapper, vidnesbyrd, sociale "
+"medier, og kontakt detaljer med kontakt form. Det inkluderer også 3 bruger "
+"widgets til nylige indlæg, populære indlæg og sociale medier. Temaet er også "
+"klar til oversættelse. Designet med fokus på brugervenlighed, Business One "
+"Page tillader hvem som helst at skabe en smuk, hurtig og mobil venlig "
+"hjemmeside, som er kompatibel med alle browsers og apparater. Du kan få fri "
+"support på http://raratheme.com/support-forum/, Doucmentation: http:"
+"//raratheme.com/documentation/business-one-page and check the demo at http:"
+"//raratheme.com/preview/business-one-page/ "
+
+#. Author of the theme
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Author URI of the theme
+msgid "http://raratheme.com/"
+msgstr "http://raratheme.com/"
