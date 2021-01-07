@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Team</title>
+	<atom:link href="https://sarra-ux.github.io/v64/category/team/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sarra-ux.github.io/v64</link>
+	<description></description>
+	<lastBuildDate>Thu, 07 Jan 2021 20:50:04 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>FELICIA CHAMBERS</title>
+		<link>https://sarra-ux.github.io/v64/2021/01/07/felicia-chambers/</link>
+					<comments>https://sarra-ux.github.io/v64/2021/01/07/felicia-chambers/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 07 Jan 2021 20:49:18 +0000</pubDate>
+				<category><![CDATA[Team]]></category>
+		<guid isPermaLink="false">https://sarra-ux.github.io/v64/?p=88</guid>
+
+					<description><![CDATA[Project Manager]]></description>
+										<content:encoded><![CDATA[
+<p>Felicia is a sincere and dedicated member of our team. She works hard and inspires and motivates our team to perform the best.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sarra-ux.github.io/v64/2021/01/07/felicia-chambers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MARSHALL BARNES</title>
+		<link>https://sarra-ux.github.io/v64/2021/01/07/marshall-barnes/</link>
+					<comments>https://sarra-ux.github.io/v64/2021/01/07/marshall-barnes/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 07 Jan 2021 20:46:26 +0000</pubDate>
+				<category><![CDATA[Team]]></category>
+		<guid isPermaLink="false">https://sarra-ux.github.io/v64/?p=84</guid>
+
+					<description><![CDATA[Web Designer]]></description>
+										<content:encoded><![CDATA[
+<p>He is our creative Web Designer. He is a young and enthusiastic team player. He loves to paint and read in his free time</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sarra-ux.github.io/v64/2021/01/07/marshall-barnes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ARNOLD CLARK</title>
+		<link>https://sarra-ux.github.io/v64/2021/01/07/arnold-clark/</link>
+					<comments>https://sarra-ux.github.io/v64/2021/01/07/arnold-clark/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 07 Jan 2021 20:41:28 +0000</pubDate>
+				<category><![CDATA[Team]]></category>
+		<guid isPermaLink="false">https://sarra-ux.github.io/v64/?p=79</guid>
+
+					<description><![CDATA[CEO/Founder]]></description>
+										<content:encoded><![CDATA[
+<p>A wonderful Soul with lots of enthusiasm and Optimism. Highly energetic person who lightens up the whole room. He loves to paint and play soccer in his free time.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://sarra-ux.github.io/v64/2021/01/07/arnold-clark/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
